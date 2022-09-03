@@ -1,0 +1,2 @@
+# goplan
+Go Learning Exercise
